@@ -51,24 +51,24 @@ Other Features
 
 <p align="center">
 <h4> Dark Theme </h4>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/11.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/12.jpg" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/13.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/14.jpg" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/15.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/11.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/12.jpg" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/13.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/14.jpg" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/15.JPG" width="200" height="400"/>
 <h4>Fresh Look</h4>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/1.png" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/2.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/3.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/4.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/5.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/6.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/7.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/8.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/9.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/Capture.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/DarkTheme1.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/DarkTheme2.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/DarkTheme3.JPG" width="200" height="400"/>
-<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Mobile/Notifications.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/1.png" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/2.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/3.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/4.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/5.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/6.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/7.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/8.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/9.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Capture.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/DarkTheme1.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/DarkTheme2.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/DarkTheme3.JPG" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/sunilvijayan7/Food-Order-Delivery-System-React-Native-DotNetCore-SQLServer-Firebase-OneSignal/main/Screenshots/Notifications.JPG" width="200" height="400"/>
 </p>
