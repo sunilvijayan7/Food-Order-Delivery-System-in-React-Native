@@ -1,0 +1,7 @@
+{
+    "APP_URL": "https://domain.com", 
+    "GOOGLE_MAP_API_KEY": "api_key_here",
+    "CURRENCY_SYMBOL": "$",
+    "CURRENCY_CODE": "USD",
+    "BANNER_IMAGE": "https://i.imgur.com/yjiRzQx.png"
+}
